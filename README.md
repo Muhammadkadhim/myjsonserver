@@ -1,2 +1,2 @@
 # myjsonserver
-to get fake data for testing
+to get fake data for testing.
